@@ -11,6 +11,10 @@ India
 [![Email](https://img.shields.io/badge/Email-ramanujbharti287@gmail.com-red?style=flat-square&logo=gmail)](mailto:ramanujbharti287@gmail.com)
 
 ---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ramanuj-droid&label=Profile%20views&color=0e75b6&style=flat" alt="ramanuj-droid" />
+</p>
+---
 
 ## 🛠 Skills
 
