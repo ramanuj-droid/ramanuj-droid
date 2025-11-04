@@ -103,3 +103,7 @@ India
 ## 📊 GitHub Stats
 
 [![Ramanuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramanuj-droid&show_icons=true&theme=radical)](https://github.com/ramanuj-droid)
+
+## 🏆 My Holopin Badges
+
+[![@ramanujdroid's Holopin badges](https://holopin.me/ramanujdroid)](https://holopin.io/@ramanujdroid)
